@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Continuous Delivery Rollout",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "perrupa",
+    "githubRepository": "continuous-delivery-presentation"
+  }
+}
