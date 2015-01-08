@@ -59,6 +59,8 @@ module.exports = (grunt) ->
             options:
                 indentation:
                     value: 4
+                max_line_length:
+                    value: "disable"
 
             all: ['Gruntfile.coffee']
 
